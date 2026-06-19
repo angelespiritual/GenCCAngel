@@ -1,3 +1,3 @@
 ## generador CC 
 
-este un proyecto para el curso de python de friends school, para familiarizarce con los de repositorios de github. 
+este es un generador con el título del aprendiz "Angel" del Master Pierce
